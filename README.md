@@ -2,7 +2,6 @@
 
 - Author: vagner.rnetto@gmail.com
 - Contact: https://www.linkedin.com/in/vagnerrnetto/
-- Phone: (11)93077-9604
 - Version: 1.0
 
 ## Índice
