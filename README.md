@@ -310,7 +310,7 @@ Para proteger os dados armazenei na plataforma Databricks, implementei as seguin
 ### Exemplo de fluxo
 
 * Usuário João pertence ao grupo gestor_a e pode ver apenas a Região de SP.
-* Usuário Maria pertence ao grupo gestor_b e pode ver apenas Região de SP.
+* Usuário Maria pertence ao grupo gestor_b e pode ver apenas Região de RJ.
 * Ao consultar a tabela covid_data, a função genero_filter é aplicada, filtrando os dados conforme a lógica definida.
 
 ![Análise Sumária](./img/exemplo_fluxo_seguranca_linha.png)
