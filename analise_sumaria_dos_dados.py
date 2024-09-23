@@ -5,7 +5,7 @@ import numpy as np
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import round
 
-__author__='vagner.rnetto@gmail.com'
+__author__='vagner.rnetto'
 __contact__='https://www.linkedin.com/in/vagnerrnetto/'
 __version__='1.0'
 

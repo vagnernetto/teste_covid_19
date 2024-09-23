@@ -7,7 +7,7 @@ import logging
 import requests
 import time
 
-__author__='vagner.rnetto@gmail.com'
+__author__='vagner.rnetto'
 __contact__='https://www.linkedin.com/in/vagnerrnetto/'
 __version__='1.0'
 

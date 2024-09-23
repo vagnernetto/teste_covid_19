@@ -1,6 +1,6 @@
 # Pipeline de ETL para Dados de COVID-19
 
-- Author: vagner.rnetto@gmail.com
+- Author: vagner.rnetto
 - Contact: https://www.linkedin.com/in/vagnerrnetto/
 - Version: 1.0
 
